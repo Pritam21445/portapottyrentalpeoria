@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How many portable toilets do I actually need for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The industry rule of thumb is one portable restroom for every 50 people over a 4-hour period. If you’re serving alcohol, you should increase that number by about 20% as usage will be higher. We can help you calculate the exact number for your specific needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What does a porta potty rental cost per day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The cost varies based on the type of unit (a standard unit is cheaper than a luxury restroom trailer), the duration of the rental, and the frequency of service required. A one day porta potty rental for a party will have a different price than a monthly rental on a construction site. Contact us for a precise and transparent quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your wedding porta potties... nice?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. A porta potty at a wedding is common, and our options are designed to impress. Our deluxe flushable units and especially our luxury portable restrooms for rent are clean, stylish, and offer amenities that will make your guests feel comfortable and cared for.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance should I book my rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For large events or during peak season (spring and summer), we recommend booking 4-6 weeks in advance to ensure availability, especially for our mobile restroom trailer units. For a standard potty rental near me, a week or two is often sufficient.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s included in the rental price?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our portalet rental price always includes delivery to your site, professional placement, pickup, and all necessary toilet paper and hand sanitizer. For longer-term rentals, a weekly service and cleaning are also included.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
